@@ -3,7 +3,6 @@
 - 👨🏽‍ A software engineer who enjoys spending time on challenging side-projects
 - 📍 Located in Boston, MA
 - 🌱 I’m currently learning server-side architecture development
-- 📫 How to reach me: email me!
 - 😄 Pronouns: ✨he/him✨
 
 <!--
