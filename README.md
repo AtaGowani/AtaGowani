@@ -1,4 +1,4 @@
-### Hi there, I'm Ata 👋
+### Hi there, I'm Ata 👋🏽
 
 - 👨🏽‍ A software engineer who enjoys spending time on challenging side-projects
 - 📍 Located in Boston, MA
