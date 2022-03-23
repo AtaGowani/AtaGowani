@@ -1,8 +1,7 @@
 ### Hi there, I'm Ata 👋🏽
 
-- 👨🏽‍ A software engineer who enjoys spending time on challenging side-projects
-- 📍 Located in Boston, MA
-- 🌱 I’m currently learning server-side architecture development
+- 👨🏽‍ A software engineer, musician, and educator
+- 📍 Located in Texas...for now
 - 😄 Pronouns: ✨he/him✨
 
 ![Profile views](https://gpvc.arturio.dev/atagowani)
