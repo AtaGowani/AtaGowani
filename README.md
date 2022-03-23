@@ -1,10 +1,8 @@
 ### Hi there, I'm Ata 👋🏽
 
 - 👨🏽‍ A software engineer, musician, and educator
-- 📍 Located in Texas...for now
+- 📍 Located in Texas...looking for my next move
 - 😄 Pronouns: ✨he/him✨
-
-![Profile views](https://gpvc.arturio.dev/atagowani)
 
 <!--
 <p align="left">
