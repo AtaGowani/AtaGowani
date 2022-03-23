@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning server-side architecture development
 - 😄 Pronouns: ✨he/him✨
 
+![Profile views](https://gpvc.arturio.dev/atagowani)
+
 <!--
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=AtaGowani&show_icons=true&theme=vue" alt="AtaGowani" />
