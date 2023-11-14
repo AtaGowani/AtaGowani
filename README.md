@@ -1,6 +1,6 @@
 ### Hi there, I'm Ata 👋🏽
 
-- 👨🏽‍ A software engineer, musician, and educator
+- 👨🏽‍ A software engineer
 - 📍 Located in Texas...looking for my next move
 - 😄 Pronouns: ✨he/him✨
 
